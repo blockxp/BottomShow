@@ -1,0 +1,7 @@
+name: BxBottomShow
+main: xyz.aksp.np.bottomshow.BottomShow
+version: "2.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: xp
+description: 底部显示
